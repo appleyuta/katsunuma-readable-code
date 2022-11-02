@@ -1,5 +1,8 @@
-[
-    {
+{
+    "userdata": {
+        "username":"yuta"
+    },
+    "word_info": [{
         "id":0,
         "word":"上手",
         "kana":"じょうず"
@@ -13,5 +16,5 @@
         "id":2,
         "word":"市場",
         "kana":"しじょう"
-    }
-]
+    }]
+}
